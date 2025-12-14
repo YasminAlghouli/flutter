@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "perfume_app",
     "short_name": "perfume_app",
+=======
+    "name": "flutter_application_1",
+    "short_name": "flutter_application_1",
+>>>>>>> 79744afdac91ba1f344e500c6c2cd6236edfe9eb
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
